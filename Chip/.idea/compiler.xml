@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xiaomi_maven" />
+        <module name="Card-Common" />
+        <module name="Card-Consumer" />
+        <module name="Card-Provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
